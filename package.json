@@ -1,0 +1,11 @@
+{
+  "name": "parcel-boilerplate",
+  "version": "1.0.0",
+  "description": "parcel boilerplate code",
+  "main": "index.js",
+  "author": "Hasala Heiyanthuduwa",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.32.4"
+  }
+}
