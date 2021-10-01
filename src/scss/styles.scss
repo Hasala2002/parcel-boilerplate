@@ -27,21 +27,19 @@ html,body{
         color: #fff;
         font-family: 'Fira Code', monospace;
         text-align: center;
-        b{
-            background-color: #ffffff21;
-            padding: 2px;
-            border-radius: 3px;
+        b {
+           background-color: #ffffff21;
+           padding: 2px;
+           border-radius: 3px;
         }
-    a{
-        font-weight: 500;
+       a {
+           font-weight: 500;
+        }
     }
-    }
- }
+  }
 }
 
-
-
-@keyframes floating{
+@keyframes floating {
     0% { transform: translate(0,  0px); } 
     50%  { transform: translate(0, 15px); } 
     100%   { transform: translate(0, -0px); } 
